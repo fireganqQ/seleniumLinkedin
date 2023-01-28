@@ -1,0 +1,12 @@
+{
+    "lang_set": "Dilinizi Seçiniz:\nChoose Your Language:\n\n[1] Türkçe (Turkish)\n[2] English (Ingilizce)\n\n[!] Dil kodunu giriniz:\n[!] Enter the language code:",
+    "url_entry": "[!] Sorgulanmasını istediğiniz kullanıcının profil linki: ",
+    "name": "İsim",
+    "lastname": "Soyisim",
+    "about": "Hakkında",
+    "continue": "[q] Programı kapat.\n[2] Dil değiştir.\n[3] Devam et.\n\n[!] Yapmak istediğiniz işlemin kodunu yazınız: ",
+    "pageError": "Bağlantı adresi bulunamadı!",
+    "aboutError": "Hakkında bilgisi alınamadı!",
+    "nameError": "İsim bilgisi alınamadı!",
+    "lastnameError": "Soyisim bilgisi alınamadı!"
+}

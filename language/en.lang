@@ -1,0 +1,12 @@
+{
+    "lang_set": "Dilinizi Seçiniz:\nChoose Your Language:\n\n[1] Türkçe (Turkish)\n[2] English (Ingilizce)\n\n[!] Dil kodunu giriniz:\n[!] Enter the language code:",
+    "url_entry":"[!] Profile link of the user you want to be queried: ",
+    "name": "Name",
+    "lastname": "Last name",
+    "about": "About",
+    "continue": "[q] Close the program.\n[2] Change language.\n[3] Continue.\n\n[!] Write the code of the action you want to do: ",
+    "pageError": "Link address not found!",
+    "aboutError": "Couldn't get information about it!",
+    "nameError": "Failed to get name information!",
+    "lastnameError": "Surname information could not be obtained!"
+}
